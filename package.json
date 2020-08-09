@@ -1,0 +1,28 @@
+{
+  "name": "sit725-prac4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "cf-deployment-tracker-client": "0.1.4",
+    "commander": "6.0.0",
+    "express": "4.17.1",
+    "http-post": "0.1.1",
+    "http-proxy": "1.18.1",
+    "mongodb": "*"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vuongtan/sit725-prac4.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vuongtan/sit725-prac4/issues"
+  },
+  "homepage": "https://github.com/vuongtan/sit725-prac4#readme"
+}
